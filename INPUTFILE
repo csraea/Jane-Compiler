@@ -1,0 +1,12 @@
+var x,y;
+var z;
+scan z;
+let x := 4;
+let y := 5;
+let x := x + y;
+let y := x - y;
+let x := x - y;
+print x;
+print y; 
+
+print z * x + y;
